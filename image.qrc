@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/pic">
+        <file>image/4baa28a7a5c4097ccba3ad471ba529c0.png</file>
+        <file>image/ee529b5f885f3e0c0574cace9080536e.png</file>
+    </qresource>
+</RCC>
